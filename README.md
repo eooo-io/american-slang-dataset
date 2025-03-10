@@ -20,7 +20,7 @@ This stash of slang—think thousands of lines like “That’s outta sight!” 
 - **Your Part**: Drop your era’s slang in `/data/[decade]/raw_lines.txt` (see [CONTRIBUTING.md](./docs/CONTRIBUTING.md)).
 
 - **My Part**: I’ll curate it (via `/curated_lines.txt`) and tokenize it for training.
-- **The Dream**: A dataset big enough (10k–20k lines) to make Semblance AI sound righteous.
+- **The Dream**: A dataset big enough (10k–20k lines) to make AI sound righteous ;)
 
 ## Folder Vibes
 
