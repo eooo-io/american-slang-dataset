@@ -1,5 +1,11 @@
 # American-Slang AI Dataset (1960s-1990s)
 
+![](images/slang-banner.jpg)
+
+Welcome to **SemblanceAI-Slang**—a crowd-sourced time capsule of American slang from the 60s to the 90s, built to train my AI, Semblance AI, to talk real. This ain’t about the over-scraped 2000s (the internet’s got “yeet” on lock)—we’re digging into the pre-digital gold: “dig it” from the hippie haze, “far out” from disco nights, “tubular” from the 80s, and “phat” from the 90s. If you lived it, we want your lingo!
+
+[...rest of your README...]
+
 Welcome to **American-Slang Dataset**—a crowd-sourced time capsule of American slang from the 60s to the 90s, built to train  AI to 'talk' real. This ain’t about the over-scraped 2000s (the internet’s got “yeet” on lock)—we’re digging into the pre-digital gold: “dig it” from the hippie haze, “far out” from disco nights, “tubular” from the 80s, and “phat” from the 90s. If you lived it, we want your lingo!
 
 ## Why We’re Doing This
