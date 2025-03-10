@@ -10,7 +10,7 @@ The goal? A dataset to train AI to groove like it’s 1969 one minute, then kick
 
 ## Intended Purpose
 
-This stash of slang—think thousands of lines like “That’s outta sight!” or “Word up, homie!”—is raw training data. It's intende to be fed into tokenizers and transformers AI how to talk. The output? An AI that can riff in 60s hippie-speak, 70s funk, 80s neon slang, or 90s grunge vibes—depending on the mood. It’s not just data; it’s a vibe we’re building together.
+This stash of slang—think thousands of lines like “That’s outta sight!” or “Word up, homie!”—is raw training data. It's intende to be fed into tokenizers and transformers teaching AI how to talk. The output? An AI that can riff in 60s hippie-speak, 70s funk, 80s neon slang, or 90s grunge vibes—depending on the mood. It’s not just data; it’s a vibe we’re building together.
 
 ## How It Works
 
@@ -34,9 +34,4 @@ Questions? Ping me here or on X/Reddit (I’ll drop my handle when we launch). S
 
 ---
 
-### Why This Nails It
-
-- **Purpose**: AI training data goal—specific, not vague.  
-- **Why**: Explains the 60s–90s focus and skips the 2000s with a nod to scraping saturation.  
-- **Tone**: Retro-cool and welcoming—hooks contributors without tech overload.  
-- **Action**: Points to `CONTRIBUTING.md` and sets expectations (10k–20k lines).  
+## Word'em up yo!
