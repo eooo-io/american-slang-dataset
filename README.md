@@ -6,7 +6,7 @@ Welcome to **American-Slang Dataset**—a crowd-sourced time capsule of American
 
 ## Why We’re Doing This
 
-We're trying to capture the vernacular of pre-Internet American culture from in 60s–90s. Most modern AI datasets are flooded with post-2000s chatter—Reddit scraps, X posts, all that jazz. But the raw, unfiltered slang from the 60s to 90s? That’s harder to snag. It’s in your memories, not some web crawl. This repo’s here to collect that dope, decade-by-decade, straight from the source—Boomers, Gen X, Millennials, anyone who’s got the lines.
+We're trying to capture the vernacular of pre-Internet American culture from in 60s–90s. Most modern AI datasets are flooded with post-2000s chatter—Reddit scraps, X posts, all that jazz. But the raw, unfiltered slang from the 60s to 90s? That’s harder to snag. It’s in your memories, not some web crawl. This repo’s here to collect that dope, decade-by-decade, straight from the source—Boomers, Gen X, Millennials, anyone who’s got the lines. AI training undoubtably already has a bunch of of knowledge of certain phrases, but we're trying to get some real-world experience into the data outside of what might already be out there. AIs need some more tasky slang to chew on, and where better to get it from than from those who lived the periods.
 
 The goal? A dataset to train AI to groove like it’s 1969 one minute, then kick it 90s-style the next. Think of it as a linguistic jukebox for an AI that’s all about retro realness.
 
@@ -17,10 +17,10 @@ This stash of slang—think thousands of lines like “That’s outta sight!” 
 ## How It Works
 
 - **Decades**: We’re zeroing in on 60s, 70s, 80s, and 90s—pre-2000s magic.
-- **Your Part**: Drop your era’s slang in `/data/[decade]/raw_lines.txt` (see [CONTRIBUTING.md](./docs/CONTRIBUTING.md)).
+- **Your Part**: Drop your era’s slang in `/data/[decade]/raw_lines.txt` (see [CONTRIBUTING.md](./CONTRIBUTING.md)).
 
 - **My Part**: I’ll curate it (via `/curated_lines.txt`) and tokenize it for training.
-- **The Dream**: A dataset big enough (10k–20k lines) to make AI sound righteous ;)
+- **The Dream**: A dataset big enough (10k–20k lines) to make AI sound righteous :)
 
 ## Folder Vibes
 
